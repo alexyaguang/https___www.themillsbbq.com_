@@ -1,0 +1,24 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.themillsbbq.com	TRUE	/	FALSE	1999999999	ideo_0c0b12884dfc3e27eef4d0efe28f04bedc61108a	6b7cc93e37b852f19c58c3732a4b2c5b
+deliver.biz	TRUE	/	FALSE	1999999999	PHPSESSID	2vimhufd5s8rcaa8aqg424i0q4
+deliver.biz	TRUE	/	FALSE	1999999999	restdJLiB8hu_lang	en
+deliver.biz	TRUE	/	FALSE	1999999999	restdJLiB8hu_ui	light
+deliver.biz	TRUE	/	FALSE	1999999999	SameSite	None
+foodling.co	TRUE	/	FALSE	1999999999	PHPSESSID	q1gojkcbjtki7oastsj9gcq5rb
+.instagram.com	TRUE	/	FALSE	1999999999	mid	YgrHzwAEAAGwBvIfdMQdNQX5yshm
+.instagram.com	TRUE	/	FALSE	1999999999	ig_did	AECD0EF7-4B89-478D-9727-651DA9EE222B
+.instagram.com	TRUE	/	FALSE	1999999999	ig_nrcb	1
+.ubereats.com	TRUE	/	FALSE	1999999999	uev2.id.xp	e3ea15ff-61f4-45fb-b1fc-055f478bbd18
+.ubereats.com	TRUE	/	FALSE	1999999999	dId	0b9b78eb-27b3-49a9-b0e5-fa74505a8c9e
+.ubereats.com	TRUE	/	FALSE	1999999999	uev2.id.session	60d098aa-f7d1-40f6-b422-b6db0708901c
+.ubereats.com	TRUE	/	FALSE	1999999999	uev2.ts.session	1644873690517
+.ubereats.com	TRUE	/	FALSE	1999999999	marketing_vistor_id	042da079-9bd4-4c5d-9581-7b8049e46466
+www.ubereats.com	TRUE	/	FALSE	1999999999	jwt-session	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NDQ4NzM2OTAsImV4cCI6MTY0NDk2MDA5MH0.LrEkKUGMV7zoOo8oKCr8ZoxmMc_VAD5N4cA75nvwGhI
+.www.doordash.com	TRUE	/	FALSE	1999999999	__cf_bm	k14uqw1dmIt8_5CxW2KADBTv8WE0wi5grCOyCHXfd6Q-1644873691-0-Aekl/GAkaijWcIKYW4lUKbZrVNw9nU23VL1j4fH8X533wGHFiMOyUJj9aVG9WNLCfUiS6wK3itekTLGNMFJYW+tysj3ExhCKHFKOU9fJkeH7
+www.doordash.com	TRUE	/	FALSE	1999999999	SameSite	None
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	fMS8TA4TFUp5mnSqvwvTr9KhZsSpN6f7
+.google.com	TRUE	/	FALSE	1999999999	NID	511=R4QdzFEtIzCX_3RjugwMgTI7JNxZke6EGcXYgQqsAxdk1ioOFz8T1dioBCO1f_8ETTe0KRUVhGljU5gO7X2zksaIw5HaWx07AfGBOOdpw4ncnYIGAW-Ld7UXyKpWYux15COrbpC7nYMo53-CPnl-DLn8VS-Uzfo35rLIyUu7D1Q
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0GQ7Zinjm22Kuy8RC..BiCsgu.9h.AAA.0.0.BiCsla.AWXMyZWoxIw
+.google.com	TRUE	/	FALSE	1999999999	1P_JAR	2022-02-14-21
+
